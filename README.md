@@ -15,8 +15,7 @@ python -m textblob.download_corpora
 streamlit run sentiment.py
 
 ## 📸 Screenshot
-![App Screenshot](<img width="1083" height="904" alt="Screenshot 2026-05-05 112711" src="https://github.com/user-attachments/assets/e23e8c06-da13-4cde-b836-1ff4c903c1e6" />
-)
+![App Screenshot](https://github.com/Harshit528/sentiment-analysis-app/blob/main/Screenshot%202026-05-05%20112711.png)
 
 ## 🧰 Built With
 - Python 3
